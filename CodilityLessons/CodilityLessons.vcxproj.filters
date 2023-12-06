@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Lesson 1">
+      <UniqueIdentifier>{de0def67-7121-4cc3-bd3f-4a6741a3c26f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 3">
+      <UniqueIdentifier>{0a93b960-107b-46ca-af21-430ad5408b72}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 2">
+      <UniqueIdentifier>{522a95ec-cdda-4a36-9034-a6529c27f1dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 4">
+      <UniqueIdentifier>{0326ab3e-2592-4f2a-8089-9de92c6b78ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Lesson 5">
+      <UniqueIdentifier>{ac234ba2-e986-49be-90bd-b691d26be364}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Lesson2_OddOccurrencesInArray.cpp">
+      <Filter>Source Files\Lesson 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson2_CyclicRotation.cpp">
+      <Filter>Source Files\Lesson 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3_PermMissingElem.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3_FrogJmp.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4_PermCheck.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4_FrogRiverOne.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson1_BinaryGap.cpp">
+      <Filter>Source Files\Lesson 1</Filter>
+    </ClCompile>
+    <ClCompile Include="Codility_Test_GameDuell_Frog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson3_TapeEquilibrium.cpp">
+      <Filter>Source Files\Lesson 3</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4_MaxCounters.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5_PassingCars.cpp">
+      <Filter>Source Files\Lesson 5</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson4_MissingInteger.cpp">
+      <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
