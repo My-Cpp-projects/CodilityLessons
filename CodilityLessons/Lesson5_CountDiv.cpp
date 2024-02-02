@@ -14,18 +14,6 @@
 //K is an integer within the range[1..2, 000, 000, 000];
 //A ≤ B.
 
-#include <iostream>
-#include <vector>
-#include <string>
-#include <bitset>
-#include <algorithm>
-#include <numeric>
-#include <limits.h>
-#include <map>
-#include <set>
-#include <unordered_set>
-using namespace std;
-
 int solution(int A, int B, int K)
 {
 	if (K == 1)

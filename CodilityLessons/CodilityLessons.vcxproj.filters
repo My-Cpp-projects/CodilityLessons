@@ -28,6 +28,9 @@
     <Filter Include="Source Files\Lesson 5">
       <UniqueIdentifier>{ac234ba2-e986-49be-90bd-b691d26be364}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Mixed">
+      <UniqueIdentifier>{fa45cc49-4496-452c-b405-22aea2de3414}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Lesson2_OddOccurrencesInArray.cpp">
@@ -51,9 +54,6 @@
     <ClCompile Include="Lesson1_BinaryGap.cpp">
       <Filter>Source Files\Lesson 1</Filter>
     </ClCompile>
-    <ClCompile Include="Codility_Test_GameDuell_Frog.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lesson3_TapeEquilibrium.cpp">
       <Filter>Source Files\Lesson 3</Filter>
     </ClCompile>
@@ -63,11 +63,17 @@
     <ClCompile Include="Lesson5_PassingCars.cpp">
       <Filter>Source Files\Lesson 5</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Lesson4_MissingInteger.cpp">
       <Filter>Source Files\Lesson 4</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5_CountDiv.cpp">
+      <Filter>Source Files\Lesson 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Mixed_FindAllVowelsInSubString.cpp">
+      <Filter>Source Files\Mixed</Filter>
+    </ClCompile>
+    <ClCompile Include="Lesson5_PrefixSums.cpp">
+      <Filter>Source Files\Lesson 5</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -64,7 +64,7 @@
 
 using namespace std;
 
-//70%, timeout failures
+//77%, timeout failures
 vector<int> solution(int N, vector<int> &A)
 {
 	std::vector<int> counters(N);
